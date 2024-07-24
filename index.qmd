@@ -1,0 +1,28 @@
+---
+title: "Tabset-group-issue"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+::: {.panel-tabset group="tabset-1"}
+
+## Python
+
+Python content
+
+## Golang
+
+Golang content
+
+:::
+
+::: {.panel-tabset group="tabset-1"}
+
+## Python
+
+Python content
+
+:::
